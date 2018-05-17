@@ -13,6 +13,7 @@ g2_by_autocorrelation is the Jupyter notebook that calculates the pulsed g2 from
 - to fit decay parameter to experimental data simply take autocorrelation of single pulse with itself
 - plot all of the tau != 0 peaks from experimental coincidences data, and fit
 
+-----------------------------------------------------------------------------
 
 g2_modelling_copiedCode just pastes together a bunch of code mainly from
   http://nbviewer.jupyter.org/github/qutip/qutip-notebooks/blob/master/examples/pulse-wise-second-order-coherence-g2.ipynb
